@@ -1,0 +1,5 @@
+C:\Users\Juan\Documents\class\OxigenClass\BowlingScoreReader\BowlingScoreReader\bin\Debug\BowlingScoreReader.exe.config
+C:\Users\Juan\Documents\class\OxigenClass\BowlingScoreReader\BowlingScoreReader\bin\Debug\BowlingScoreReader.exe
+C:\Users\Juan\Documents\class\OxigenClass\BowlingScoreReader\BowlingScoreReader\bin\Debug\BowlingScoreReader.pdb
+C:\Users\Juan\Documents\class\OxigenClass\BowlingScoreReader\BowlingScoreReader\obj\Debug\BowlingScoreReader.exe
+C:\Users\Juan\Documents\class\OxigenClass\BowlingScoreReader\BowlingScoreReader\obj\Debug\BowlingScoreReader.pdb
